@@ -15,4 +15,6 @@ Execute NewTest.java in Test suite package to run all the added test cases
 
 Note - Follow all the guidelines mentioned in Config.properties file before you add or change the input.
 
+----------------------------------------------------------------------------------
 -------------------------------END OF FILE----------------------------------------
+----------------------------------------------------------------------------------
